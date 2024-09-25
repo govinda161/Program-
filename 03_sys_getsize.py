@@ -1,3 +1,5 @@
+# Getting size using getsizeof() method
+# printing the same.
 age=20
 import sys
 print(f'The max capacity of (integer) is {sys.getsizeof(age)}')
