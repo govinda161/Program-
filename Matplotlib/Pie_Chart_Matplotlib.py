@@ -9,4 +9,5 @@ plt.pie(market_share, labels=manufactures, colors=colors, autopct ='%.2f')
 # Title
 plt.title('Smartphone Market Share')
 # Show the pie chart
-plt.show()
+plt.show()
+
